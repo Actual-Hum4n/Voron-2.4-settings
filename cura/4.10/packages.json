@@ -1,0 +1,272 @@
+{
+    "dismissed": [],
+    "installed": {
+        "ArcWelderPlugin": {
+            "filename": "C:\\Users\\Nate\\AppData\\Local\\cura\\4.10\\cache\\cura_packages\\ArcWelderPlugin.curapackage",
+            "package_info": {
+                "author": {
+                    "author_id": "fieldofview",
+                    "display_name": "fieldOfView",
+                    "email": "aldo@fieldofview.com",
+                    "website": "http://fieldofview.com"
+                },
+                "description": "Converts multiple subsequent G0/G1 moves to G2/G3 arcs. This reduces the number of gcode commands necessary to make curved movements, thus potentially removing stutter caused by buffer under-runs in the 3d printer controller.\n\nThis plugin uses ArcWelder by @FormerLurker: https://github.com/FormerLurker/ArcWelderLib\n\nThe plugin adds several settings to the \"Special Modes\" category in Cura. The \"Arc Welder\" setting needs to be checked to enable ArcWelder processing. See the plugin website for a more thorough description of the settings.\n\nThe development of this plugin can be sponsored via Github Sponsors (https://github.com/sponsors/fieldofview) or Paypal (https://www.paypal.me/fieldofview)",
+                "display_name": "Arc Welder",
+                "is_active": true,
+                "is_bundled": false,
+                "is_installed": true,
+                "package_id": "ArcWelderPlugin",
+                "package_type": "plugin",
+                "package_version": "3.5.2",
+                "sdk_version": 7,
+                "sdk_version_semver": "7.0.0",
+                "website": "https://github.com/fieldOfView/Cura-ArcWelderPlugin"
+            }
+        },
+        "CalibrationShapes": {
+            "filename": "C:\\Users\\Nate\\AppData\\Local\\cura\\4.10\\cache\\cura_packages\\CalibrationShapes.curapackage",
+            "package_info": {
+                "author": {
+                    "author_id": "5axes",
+                    "display_name": "5axes",
+                    "email": "cuq@free.fr",
+                    "website": "https://github.com/5axes"
+                },
+                "description": "This plugin adds a menu to create some basic shapes to the scene (cube, cylinder, tube) and standard test part. \n\nYou can add standard test / calibration part :\n- Calibration Cube XYZ\n- PLA TempTower 220 - 180\u00b0C\n- PLA TempTower 220 - 190\u00b0C\n- PLA+ TempTower 230 - 200\u00b0C\n- ABS TempTower 250 - 210\u00b0C\n- PETG TempTower 260 - 230\u00b0C\n- Junction Deviation Tower\n- Retract Tower\n- Retract Test part\n- Bridge Spiral Test\n- Thin Wall Test\n- Overhang Test\n- Flow Test\n- Tolerance Test\n- Linear Pressure Advance Tower\n- MultiCube Test\n- Bed Level Calibration Test\n\nAnd Multi-Extruder part :\n- Extruder Offset Calibration\n- Calibration Cube bi-color\n- Cube bi-color\n\n+ 3 postprocessing scripts",
+                "display_name": "Calibration Shapes",
+                "is_active": true,
+                "is_bundled": false,
+                "is_installed": true,
+                "package_id": "CalibrationShapes",
+                "package_type": "plugin",
+                "package_version": "1.3.3",
+                "sdk_version": 7,
+                "sdk_version_semver": "7.5.0",
+                "website": "https://github.com/5axes/Calibration-Shapes"
+            }
+        },
+        "Ionic2": {
+            "filename": "C:\\Users\\Nate\\AppData\\Local\\cura\\4.10\\cache\\cura_packages\\Ionic2.curapackage",
+            "package_info": {
+                "author": {
+                    "author_id": "MatterHackers",
+                    "display_name": "MatterHackers",
+                    "email": "support@matterhackers.com",
+                    "website": "https://www.matterhackers.com"
+                },
+                "description": "Hi-Temp Hybrid Support Material. Successfully print beautiful, intricate 3D models in high temperature filaments like NylonX without painstaking post-processing. This hybrid-support material was designed specifically for nylon filaments and other advanced high temperature materials. No need to use same material supports that are a hassle to remove and run the risk of damaging your print\u2019s surface finish. With Ionic, you have filament that is rigid enough to print reliable supports for advanced materials, but also pliable enough to be easily removed manually. It can also be dissolved away in water.",
+                "display_name": "Ionic",
+                "is_active": false,
+                "is_bundled": false,
+                "is_installed": true,
+                "package_id": "Ionic2",
+                "package_type": "material",
+                "package_version": "1.0.0",
+                "sdk_version": 7,
+                "sdk_version_semver": "7.6.0",
+                "website": "https://www.matterhackers.com/store/l/ionic-hi-temp-hybrid-support-material-300-075/sk/M4HF3Q59"
+            }
+        },
+        "MaterialCostTools": {
+            "filename": "C:\\Users\\Nate\\AppData\\Local\\cura\\4.10\\cache\\cura_packages\\MaterialCostTools.curapackage",
+            "package_info": {
+                "author": {
+                    "author_id": "fieldofview",
+                    "display_name": "fieldOfView",
+                    "email": "aldo@fieldofview.com",
+                    "website": "http://fieldofview.com"
+                },
+                "description": "Adds tools related to weight and cost of materials, such as importing and exporting weights and costs to a file which can be easily distributed",
+                "display_name": "Material Cost Tools",
+                "is_active": true,
+                "is_bundled": false,
+                "is_installed": true,
+                "package_id": "MaterialCostTools",
+                "package_type": "plugin",
+                "package_version": "3.5.0",
+                "sdk_version": 7,
+                "sdk_version_semver": "7.0.0",
+                "website": "https://github.com/fieldOfView/Cura-MaterialCostTools"
+            }
+        },
+        "MatterHackers_NylonX": {
+            "filename": "C:\\Users\\Nate\\AppData\\Local\\cura\\4.10\\cache\\cura_packages\\MatterHackers_NylonX.curapackage",
+            "package_info": {
+                "author": {
+                    "author_id": "MatterHackers",
+                    "display_name": "MatterHackers",
+                    "email": "support@matterhackers.com",
+                    "website": "https://www.matterhackers.com"
+                },
+                "description": "NylonX is an engineering grade nylon filament reinforced with carbon fiber (approximately 20% by weight), creating a high-strength filament capable of printing durable, stiff, impact resistant functional parts. \n\nBy adding micro-carbon fibers to nylon, you get a tough filament capable of printing parts with stiffness, impact resistance, and high tensile strength. Its low density gives you the highest tensile strength-to-weight ratio of any material available. \n\nCarbon fiber adds stability and rigidity resulting in reduced warp and improved dimensional stability. Printing with NylonX is easier than printing with traditional nylon while providing parts that are stiffer, stronger, and lighter. \n\nNylonX prints with a beautiful matte finish that requires no post-processing. The carbon fibers make the layer lines virtually disappear, giving you an excellent surface finish even with larger layer heights. \n",
+                "display_name": "NylonX",
+                "is_active": false,
+                "is_bundled": false,
+                "is_installed": true,
+                "package_id": "MatterHackers_NylonX",
+                "package_type": "material",
+                "package_version": "1.0.2",
+                "sdk_version": 7,
+                "sdk_version_semver": "7.6.0",
+                "website": "https://www.matterhackers.com"
+            }
+        },
+        "MeasureTool": {
+            "filename": "C:\\Users\\Nate\\AppData\\Local\\cura\\4.10\\cache\\cura_packages\\MeasureTool.curapackage",
+            "package_info": {
+                "author": {
+                    "author_id": "fieldofview",
+                    "display_name": "fieldOfView",
+                    "email": "aldo@fieldofview.com",
+                    "website": "http://fieldofview.com"
+                },
+                "description": "Adds a tool for measuring parts of models.\n\nThe plugin lets the user select two points, either on models or on the build plate. The distance between these two points is shown in the panel for the tool; the distance is shown both per axis and diagonally. \n\nWhen clicking the tool moves the closest of the two points to the cursor. Hold down the shift key to alternate between the two points instead.\n\nThe development of this plugin can be sponsored via Github Sponsors (https://github.com/sponsors/fieldofview) or Paypal (https://www.paypal.me/fieldofview)",
+                "display_name": "Measure Tool",
+                "is_active": true,
+                "is_bundled": false,
+                "is_installed": true,
+                "package_id": "MeasureTool",
+                "package_type": "plugin",
+                "package_version": "1.0.1",
+                "sdk_version": 7,
+                "sdk_version_semver": "7.0.0",
+                "website": "https://github.com/fieldOfView/Cura-MeasureTool/"
+            }
+        },
+        "MeshTools": {
+            "filename": "C:\\Users\\Nate\\AppData\\Local\\cura\\4.10\\cache\\cura_packages\\MeshTools.curapackage",
+            "package_info": {
+                "author": {
+                    "author_id": "fieldofview",
+                    "display_name": "fieldOfView",
+                    "email": "aldo@fieldofview.com",
+                    "website": "http://fieldofview.com"
+                },
+                "description": "Adds several mesh analysis and manipulation tools.\n\nThe development of this plugin can be sponsored via Github Sponsors (https://github.com/sponsors/fieldofview) or Paypal (https://www.paypal.me/fieldofview)",
+                "display_name": "Mesh Tools",
+                "is_active": true,
+                "is_bundled": false,
+                "is_installed": true,
+                "package_id": "MeshTools",
+                "package_type": "plugin",
+                "package_version": "3.6.0",
+                "sdk_version": 7,
+                "sdk_version_semver": "7.0.0",
+                "website": "https://github.com/fieldOfView/Cura-MeshTools"
+            }
+        },
+        "NylonG_1_2019": {
+            "filename": "C:\\Users\\Nate\\AppData\\Local\\cura\\4.10\\cache\\cura_packages\\NylonG_1_2019.curapackage",
+            "package_info": {
+                "author": {
+                    "author_id": "MatterHackers",
+                    "display_name": "MatterHackers",
+                    "email": "support@matterhackers.com",
+                    "website": "https://www.matterhackers.com"
+                },
+                "description": "NylonG is an engineering grade nylon filament reinforced with glass fiber (approximately 20% by weight), creating a high-strength filament capable of printing durable, stiff, impact resistant functional parts.\n\nBy adding micro-glass fibers to nylon, you get a tough filament capable of printing parts with stiffness, impact resistance, and high tensile strength. Its low density gives you high tensile strength-to-weight ratio, and a heat deflection temperature of 160C.\n\nGlass fiber adds stability and rigidity resulting in reduced warp and improved dimensional stability. Printing with NylonG is easier than printing with traditional nylon while providing parts that are stiffer, stronger, lighter, and more impact resistant.\n\nNylonG prints with a beautiful matte finish that requires no post-processing. The glass fibers make the layer lines virtually disappear, giving you an excellent surface finish even with larger layer heights.\n\n",
+                "display_name": "NylonG",
+                "is_active": false,
+                "is_bundled": false,
+                "is_installed": true,
+                "package_id": "NylonG_1_2019",
+                "package_type": "material",
+                "package_version": "1.0.2",
+                "sdk_version": 7,
+                "sdk_version_semver": "7.6.0",
+                "website": "https://www.matterhackers.com"
+            }
+        },
+        "OrientationPlugin": {
+            "filename": "C:\\Users\\Nate\\AppData\\Local\\cura\\4.10\\cache\\cura_packages\\OrientationPlugin.curapackage",
+            "package_info": {
+                "author": {
+                    "author_id": "nallath",
+                    "display_name": "nallath",
+                    "email": "j.vankessel@ultimaker.com",
+                    "website": "http://www.github.com/nallath"
+                },
+                "description": "Extension that enables the automatic orientation of models to reduce the need for support. This wraps the MeshTweaker by Christoph Schranz, so it can be easily used in Cura. ",
+                "display_name": "Auto-Orientation",
+                "is_active": true,
+                "is_bundled": false,
+                "is_installed": true,
+                "package_id": "OrientationPlugin",
+                "package_type": "plugin",
+                "package_version": "3.6.0",
+                "sdk_version": 7,
+                "sdk_version_semver": "7.0.0",
+                "website": "https://github.com/nallath/CuraOrientationPlugin"
+            }
+        },
+        "SettingsGuide2": {
+            "filename": "C:\\Users\\Nate\\AppData\\Local\\cura\\4.10\\cache\\cura_packages\\SettingsGuide2.curapackage",
+            "package_info": {
+                "author": {
+                    "author_id": "Ghostkeeper",
+                    "display_name": "Ghostkeeper",
+                    "email": "rubend@tutanota.com",
+                    "website": "https://github.com/Ghostkeeper"
+                },
+                "description": "A guide on what settings do and how to use them.\nRight-click on a setting to access the guide.",
+                "display_name": "Settings Guide",
+                "is_active": true,
+                "is_bundled": false,
+                "is_installed": true,
+                "package_id": "SettingsGuide2",
+                "package_type": "plugin",
+                "package_version": "2.7.0",
+                "sdk_version": 7,
+                "sdk_version_semver": "7.0.0",
+                "website": "https://github.com/Ghostkeeper/SettingsGuide"
+            }
+        },
+        "eSUN_PETG_2019": {
+            "filename": "C:\\Users\\Nate\\AppData\\Local\\cura\\4.10\\cache\\cura_packages\\eSUN_PETG_2019.curapackage",
+            "package_info": {
+                "author": {
+                    "author_id": "eSUN3DPrinting",
+                    "display_name": "eSUN",
+                    "email": "bd@brightcn.net",
+                    "website": "https://esun3d.net"
+                },
+                "description": "PETG is an excellent material which combines the advantages of PLA and ABS filaments. Odorless; Little shrinkage rate; hydrophobicity (Does not absorb water); Outstanding toughness and high impact strength; Good liquidity (flows smoothly); High mechanical strength and excellent flexibility; Good glossy finish;\n\nPETG requires slower printing speed than other materials.\n\nRecommend print setttings\uff1a \nExtrusion Temperature Range: 240 to 255 Celsius\nPlate temperature: 80~90 Celsius or without heated \nPrinting speed: 30~60mm/s \nMoving speed: 30~60mm/s \n20 colors available.  ",
+                "display_name": "PETG",
+                "is_active": false,
+                "is_bundled": false,
+                "is_installed": true,
+                "package_id": "eSUN_PETG_2019",
+                "package_type": "material",
+                "package_version": "2.0.0",
+                "sdk_version": 7,
+                "sdk_version_semver": "7.6.0",
+                "website": "https://www.amazon.com/s?k=eSUN+PETG&ref=nb_sb_noss_2"
+            }
+        },
+        "eSUN_ePACF_2019": {
+            "filename": "C:\\Users\\Nate\\AppData\\Local\\cura\\4.10\\cache\\cura_packages\\eSUN_ePACF_2019.curapackage",
+            "package_info": {
+                "author": {
+                    "author_id": "eSUN3DPrinting",
+                    "display_name": "eSUN",
+                    "email": "bd@brightcn.net",
+                    "website": "https://esun3d.net"
+                },
+                "description": "eSUN ePA-CF Carbon Fiber Filled Nylon Filament. \n\nApplications: \nStructural parts. Tough parts. \n\nAvailable in 0.5KG spool and 1KG spool. For first time users, please consider 0.5KG spool.\nExtrusion Temp: 240 to 260 Celsius. Recommend 255 Celsius at least. \nBuild Plate Temp: 80 Celsius\nSpeed While Extruding: 30 to 60mm/s\nSpeed While Traveling: 90 to 150mm/s\nNumber of Shells: 3-5\n\nWarning: Carbon-Fiber Filled materials are abrasive. Use all-metal hotend is required.",
+                "display_name": "ePA-CF",
+                "is_active": false,
+                "is_bundled": false,
+                "is_installed": true,
+                "package_id": "eSUN_ePACF_2019",
+                "package_type": "material",
+                "package_version": "2.0.0",
+                "sdk_version": 7,
+                "sdk_version_semver": "7.6.0",
+                "website": "http://www.esun3d.net/products/198.html"
+            }
+        }
+    },
+    "to_install": {},
+    "to_remove": [],
+    "version": 1
+}
